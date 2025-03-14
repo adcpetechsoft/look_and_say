@@ -8,7 +8,6 @@ int main(int argc, char *argv[])
 
     string str01;
     string str02;
-    char reg01;
 
     int c;
     int s;
